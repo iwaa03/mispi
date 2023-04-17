@@ -13,10 +13,14 @@ public class A implements C {
     }
 
     public int ae() {
-        return Math.abs(-6);
+        return java.lang.Math.abs(-6);
     }
 
     public long ac() {
         return 111;
+    }
+
+    public double ee() {
+        return 0.000001;
     }
 }

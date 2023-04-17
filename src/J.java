@@ -11,4 +11,8 @@ public class J extends A {
     public Object rr() {
         return null;
     }
+
+    public int cc() {
+        return 42;
+    }
 }
