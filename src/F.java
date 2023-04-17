@@ -19,4 +19,8 @@ public class F implements C {
     public long ac() {
         return 111;
     }
+
+    public int af() {
+        return -1;
+    }
 }
