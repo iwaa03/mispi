@@ -1,6 +1,6 @@
 public class A implements C {
 
-    private double i = 100.500;
+    private double i = 100.5000;
 
     private int d = 42;
 
