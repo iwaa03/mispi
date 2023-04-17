@@ -1,4 +1,4 @@
-public class A implements C {
+public class A extends null implements C {
 
     private double i = 100.500;
 
@@ -13,7 +13,7 @@ public class A implements C {
     }
 
     public int ae() {
-        return Math.abs(-6);
+        return java.lang.Math.abs(-6);
     }
 
     public long ac() {
@@ -28,7 +28,15 @@ public class A implements C {
         return new java.util.Random();
     }
 
-    public byte oo() {
-        return 3;
+    public void aa() {
+        return;
+    }
+
+    public void ab() {
+        System.out.println();
+    }
+
+    public long dd() {
+        return 100500;
     }
 }
