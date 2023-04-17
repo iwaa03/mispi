@@ -1,6 +1,6 @@
 public class A implements C {
 
-    private double i = 100.5000;
+    private double i = 100.500;
 
     private int d = 42;
 
@@ -18,5 +18,9 @@ public class A implements C {
 
     public long ac() {
         return 111;
+    }
+
+    public double ee() {
+        return 0.000001;
     }
 }
