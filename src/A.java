@@ -1,4 +1,4 @@
-public class A implements C {
+public class A extends null implements C {
 
     private double i = 100.500;
 
@@ -30,5 +30,9 @@ public class A implements C {
 
     public byte oo() {
         return 3;
+    }
+
+    public void aa() {
+        return;
     }
 }

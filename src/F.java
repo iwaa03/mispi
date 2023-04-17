@@ -1,4 +1,4 @@
-public class F implements C {
+public class F extends null implements C {
 
     private long f = 4321;
 
@@ -30,5 +30,9 @@ public class F implements C {
 
     public int cc() {
         return 13;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
     }
 }

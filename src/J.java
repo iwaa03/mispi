@@ -23,4 +23,8 @@ public class J extends A {
     public double ad() {
         return 9.11;
     }
+
+    public void ab() {
+        return;
+    }
 }
