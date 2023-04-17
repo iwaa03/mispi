@@ -23,4 +23,8 @@ public class A implements C {
     public double ee() {
         return 0.000001;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
