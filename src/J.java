@@ -19,4 +19,8 @@ public class J extends A {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public double ad() {
+        return 9.11;
+    }
 }
