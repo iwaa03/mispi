@@ -31,16 +31,4 @@ public class F extends null implements C {
     public int cc() {
         return 13;
     }
-
-    public java.util.Random mm() {
-        return new java.util.Random();
-    }
-
-    public int[] ii() {
-        return new int[]{0, 1, 2, 3, 4};
-    }
-
-    public String kk() {
-        return "Hello world";
-    }
 }

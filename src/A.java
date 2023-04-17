@@ -27,7 +27,6 @@ public class A extends null implements C {
     public java.util.Random mm() {
         return new java.util.Random();
     }
-
     public void aa() {
         return;
     }
