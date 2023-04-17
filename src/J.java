@@ -15,4 +15,8 @@ public class J extends A {
     public int cc() {
         return 42;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
