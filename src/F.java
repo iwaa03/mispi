@@ -27,4 +27,8 @@ public class F implements C {
     public double ee() {
         return Math.PI;
     }
+
+    public int cc() {
+        return 13;
+    }
 }
