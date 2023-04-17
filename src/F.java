@@ -13,14 +13,10 @@ public class F implements C {
     }
 
     public int ae() {
-        return Math.abs(-7);
+        return java.lang.Math.abs(-7);
     }
 
     public long ac() {
         return 111;
-    }
-
-    public int af() {
-        return -1;
     }
 }
